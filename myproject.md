@@ -14,4 +14,5 @@ Given the absence of a formal specification, I explored the Filmweb site to unde
 # Test Cases 
 Here are examples of the test cases I created for the functionalities I tested:
 # Functionality 1: Adding a film to "Chcę zobaczyć" list.
-*
+* Valid test cases:
+  * Test case 1: Adding a film to "Chcę zobaczyć" list
