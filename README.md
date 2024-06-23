@@ -25,4 +25,5 @@ My name is Weronika Czernal. I developed an interest in the IT industry through 
 # Blogs read 
 * [Remigiusz Bednarczyk](https://remigiuszbednarczyk.pl/)
 * [BlogerSii](https://sii.pl/blog)
-# Examples of my work
+# My project - Filmweb testing project
+[Click here to see the detailed project documentation.](https://github.com/weronikaczernal/portfolio/blob/main/myproject.md)
