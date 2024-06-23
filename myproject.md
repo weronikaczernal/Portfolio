@@ -16,3 +16,7 @@ Here are examples of the test cases I created for the functionalities I tested:
 # Functionality 1: Adding a film to "Chcę zobaczyć" list.
 * Valid test cases:
   * Test case 1: Adding a film to "Chcę zobaczyć" list
+![testcase1](https://github.com/weronikaczernal/portfolio/assets/170974453/4356a622-735a-493d-a86b-2f4e8315867c)
+This screenshot shows the details of this test case. It includes the title, objective, and preconditions defined for the test.
+![testcase1steps](https://github.com/weronikaczernal/portfolio/assets/170974453/274b6a13-7e81-4540-adbf-a4cf7b1e257e)
+    
