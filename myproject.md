@@ -1,6 +1,4 @@
 # My project - Filmweb testing project
-# Table of Contents
-1. [Demonstrated Skills](
 # Introduction
 This project is part of my portfolio, created to showcase my skills and demonstrate examples of my work. As an aspiring manual tester, I have taken the initiative to document test cases and bug reports for a real-world application, Filmweb. This project illustrates my ability to translate theoretical knowledge into practical application, even in the absence of detailed specifications.
 # Project Overview
@@ -97,7 +95,7 @@ Bug 4 - Unable to add film to "Chcę zobaczyć" list
 # Conclusions
 In this project, I demonstrated my ability to create detailed test cases and bug reports for web functionalities. It provided me with the opportunity to practice using Jira with Zephyr and TestRail for test case management, even in situations without a formal specification.
 
-### Key Takeaways:
+Key Takeaways:
 * Practical Experience: Gained hands-on experience in documenting test cases and reporting bugs using industry-standard tools.
 * Problem-Solving Skills: Developed the ability to hypothesize potential issues and document them effectively as bug reports.
 * Attention to Detail: Enhanced my ability to meticulously document each step in the testing process to ensure clarity and reproducibility.
