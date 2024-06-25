@@ -1,4 +1,6 @@
 # My project - Filmweb testing project
+# Table of Contents
+1. [Demonstrated Skills](
 # Introduction
 This project is part of my portfolio, created to showcase my skills and demonstrate examples of my work. As an aspiring manual tester, I have taken the initiative to document test cases and bug reports for a real-world application, Filmweb. This project illustrates my ability to translate theoretical knowledge into practical application, even in the absence of detailed specifications.
 # Project Overview
