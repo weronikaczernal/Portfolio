@@ -12,7 +12,7 @@ Given the absence of a formal specification, I explored the Filmweb site to unde
 * Test Case Design: Creating detailed and effective test cases based on user interactions and functional behavior.
 * Bug Reporting: Anticipating potential issues and documenting them through bug reports.
 # Test Cases 
-Here are examples of the test cases I created for the functionalities I tested. Each test case is accompanied by two screenshots: the first screenshot shows the test case details, and the second screenshot presents the test script with execution steps. 
+Here are examples of the test cases I created for the functionalities I tested. Each test case is accompanied by two screenshots: the first screenshot shows the test case details, and the second screenshot presents the test script with execution steps. The test cases for the first functionality were documented in Jira using Zephyr, while the test cases for the second functionality were written in TestRail to practice using these tools.
 # Functionality 1: Adding a film to "Chcę zobaczyć" list.
 Valid test cases:
 * Test case 1 - Adding a film to "Chcę zobaczyć" list
@@ -45,5 +45,8 @@ Invalid test case:
 
 ![11](https://github.com/weronikaczernal/portfolio/assets/170974453/75015ef3-996c-47b4-b098-f30a4dd66708)
 ![12](https://github.com/weronikaczernal/portfolio/assets/170974453/49294f05-fe98-49bf-bb63-01fd5c4dd8e6)
+
+# Functionality 2: Search Bar 
+Valid test cases: 
 
 
