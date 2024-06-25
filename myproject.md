@@ -48,5 +48,31 @@ Invalid test case:
 
 # Functionality 2: Search Bar 
 Valid test cases: 
+* Test case 1 - Verify that a user can successfully search for a film by entering the exact title.
+
+![1](https://github.com/weronikaczernal/portfolio/assets/170974453/9120affa-82c2-448c-8ab1-5030e45dda03)
+
+* Test case 2 - Verify that a user can successfully search for a film by entering a partial title.
+
+![2](https://github.com/weronikaczernal/portfolio/assets/170974453/0b896c6d-c7e2-452b-9db8-bccf2da472ba)
+
+* Test case 3 - Verify that the user can successfully search for an actor's profile by entering the actor's name.
+
+![3](https://github.com/weronikaczernal/portfolio/assets/170974453/0f61dd70-59ec-408e-a273-ea454767f53e)
+
+Invalid test cases:
+* Test case 4 - Verify that the system provides appropriate feedback when the user search with an empty input.
+
+![4](https://github.com/weronikaczernal/portfolio/assets/170974453/587bc598-78cc-4674-9a63-856b49a1982b)
+
+* Test case 5 - Verify that searching with only special characters shows appropriate feedback.
+
+![5](https://github.com/weronikaczernal/portfolio/assets/170974453/dbd9c518-86a8-4597-b93d-2847f18c0ffc)
+
+* Test case 6 - Verify that the system provides appropriate feedback when the user search non-existent film title.
+
+![6](https://github.com/weronikaczernal/portfolio/assets/170974453/8f5227c6-24ff-46dc-a21f-e555477e6f57)
+
+
 
 
