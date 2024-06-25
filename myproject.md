@@ -73,6 +73,42 @@ Invalid test cases:
 
 ![6](https://github.com/weronikaczernal/portfolio/assets/170974453/8f5227c6-24ff-46dc-a21f-e555477e6f57)
 
+# Bug Reports
+Here are examples of the bug reports I created for the functionalities I tested.  These bugs are hypothetical and do not actually occur on the Filmweb site. I created these hypothetical bugs to practice identifying and reporting potential issues based on my test cases.
+
+Bug 1 - Incorrect search results for partial film title
+
+![1](https://github.com/weronikaczernal/portfolio/assets/170974453/0b455b74-7898-4bae-8f6f-a871765f967b)
+
+Bug 2 - Unable to find film by exact title
+
+![2](https://github.com/weronikaczernal/portfolio/assets/170974453/a84c4e14-430a-47e0-956c-6fe3ec17ddcc)
+
+Bug 3 - Hover functionality on "Chcę obejrzeć" button not working
+
+![3](https://github.com/weronikaczernal/portfolio/assets/170974453/e23018d6-97f0-4e6a-999a-419844920497)
+
+Bug 4 - Unable to add film to "Chcę zobaczyć" list
+
+![4](https://github.com/weronikaczernal/portfolio/assets/170974453/116639a6-c333-49f8-8c28-b13a132a8354)
+
+# Conclusions
+In this project, I demonstrated my ability to create detailed test cases and bug reports for web functionalities. It provided me with the opportunity to practice using Jira with Zephyr and TestRail for test case management, even in situations without a formal specification.
+
+### Key Takeaways:
+* Practical Experience: Gained hands-on experience in documenting test cases and reporting bugs using industry-standard tools.
+* Problem-Solving Skills: Developed the ability to hypothesize potential issues and document them effectively as bug reports.
+* Attention to Detail: Enhanced my ability to meticulously document each step in the testing process to ensure clarity and reproducibility.
+* Tool Proficiency: Improved my skills in using Jira with Zephyr and TestRail, which are essential tools in the field of manual testing.
+* Adaptability: Demonstrated flexibility and problem-solving by creating test cases and bug reports without a formal specification, simulating real-world testing scenarios.
+
+
+
+
+
+
+
+
 
 
 
