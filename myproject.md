@@ -14,7 +14,7 @@ Given the absence of a formal specification, I explored the Filmweb site to unde
 # Test Cases 
 Here are examples of the test cases I created for the functionalities I tested. Each test case is accompanied by two screenshots: the first screenshot shows the test case details, and the second screenshot presents the test script with execution steps. The test cases for the first functionality were documented in Jira using Zephyr, while the test cases for the second functionality were written in TestRail to practice using these tools.
 # Functionality 1: Adding a film to "Chcę zobaczyć" list.
-Valid test cases:
+**Valid test cases**:
 * Test case 1 - Adding a film to "Chcę zobaczyć" list
 
 ![1](https://github.com/weronikaczernal/portfolio/assets/170974453/6735e15a-8ea7-4327-a324-f1c9da610664)
@@ -40,14 +40,14 @@ Valid test cases:
 ![9](https://github.com/weronikaczernal/portfolio/assets/170974453/52bc29b2-5d7f-4751-86b5-e1660119a834)
 ![10](https://github.com/weronikaczernal/portfolio/assets/170974453/704b98fc-e21c-49b5-89cc-292b56a90fec)
 
-Invalid test case:
+**Invalid test case**:
 * Test case 6 - Adding a film to "Chcę zobaczyć" list when not logged in
 
 ![11](https://github.com/weronikaczernal/portfolio/assets/170974453/75015ef3-996c-47b4-b098-f30a4dd66708)
 ![12](https://github.com/weronikaczernal/portfolio/assets/170974453/49294f05-fe98-49bf-bb63-01fd5c4dd8e6)
 
 # Functionality 2: Search Bar 
-Valid test cases: 
+**Valid test cases**: 
 * Test case 1 - Verify that a user can successfully search for a film by entering the exact title.
 
 ![1](https://github.com/weronikaczernal/portfolio/assets/170974453/9120affa-82c2-448c-8ab1-5030e45dda03)
@@ -60,7 +60,7 @@ Valid test cases:
 
 ![3](https://github.com/weronikaczernal/portfolio/assets/170974453/0f61dd70-59ec-408e-a273-ea454767f53e)
 
-Invalid test cases:
+**Invalid test cases**:
 * Test case 4 - Verify that the system provides appropriate feedback when the user search with an empty input.
 
 ![4](https://github.com/weronikaczernal/portfolio/assets/170974453/587bc598-78cc-4674-9a63-856b49a1982b)
