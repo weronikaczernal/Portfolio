@@ -78,19 +78,19 @@ Here are examples of the bug reports I created for the functionalities I tested.
 
 Bug 1 - Incorrect search results for partial film title
 
-![1](https://github.com/weronikaczernal/portfolio/assets/170974453/0b455b74-7898-4bae-8f6f-a871765f967b)
+![1](https://github.com/weronikaczernal/portfolio/assets/170974453/2c69971e-94e5-4373-8ebc-3c937cf8a924)
 
 Bug 2 - Unable to find film by exact title
 
-![2](https://github.com/weronikaczernal/portfolio/assets/170974453/a84c4e14-430a-47e0-956c-6fe3ec17ddcc)
+![2](https://github.com/weronikaczernal/portfolio/assets/170974453/ab2f2c19-9e91-410b-bc35-fe8898baa7fe)
 
 Bug 3 - Hover functionality on "Chcę obejrzeć" button not working
 
-![3](https://github.com/weronikaczernal/portfolio/assets/170974453/e23018d6-97f0-4e6a-999a-419844920497)
+![3](https://github.com/weronikaczernal/portfolio/assets/170974453/a1070c15-fea3-4c1e-ba35-991d3a8826a0)
 
 Bug 4 - Unable to add film to "Chcę zobaczyć" list
 
-![4](https://github.com/weronikaczernal/portfolio/assets/170974453/116639a6-c333-49f8-8c28-b13a132a8354)
+![4](https://github.com/weronikaczernal/portfolio/assets/170974453/4dfdca37-d275-41c6-b91f-255321d166c2)
 
 # Conclusions
 In this project, I demonstrated my ability to create detailed test cases and bug reports for web functionalities. It provided me with the opportunity to practice using Jira with Zephyr and TestRail for test case management, even in situations without a formal specification.
