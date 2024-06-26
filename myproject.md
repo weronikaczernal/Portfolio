@@ -98,7 +98,7 @@ In this project, I demonstrated my ability to create detailed test cases and bug
 Key Takeaways:
 * Practical Experience: Gained hands-on experience in documenting test cases and reporting bugs using industry-standard tools.
 * Problem-Solving Skills: Developed the ability to hypothesize potential issues and document them effectively as bug reports.
-* Attention to Detail: Enhanced my ability to meticulously document each step in the testing process to ensure clarity and reproducibility.
+* Attention to Detail: Enhanced my ability to document each step in the testing process to ensure clarity and reproducibility.
 * Tool Proficiency: Improved my skills in using Jira with Zephyr and TestRail, which are essential tools in the field of manual testing.
 * Adaptability: Demonstrated flexibility and problem-solving by creating test cases and bug reports without a formal specification, simulating real-world testing scenarios.
 
