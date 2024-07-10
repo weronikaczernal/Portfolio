@@ -6,12 +6,15 @@ My name is Weronika Czernal. I developed an interest in the IT industry through 
 * Zephyr
 * Trello
 * TestRail
+* Postman
 # Tech skills 
 * Software testing
-* Scrum
-* Kanban
+* API testing
 * Creating test cases
 * Reporting bugs
+* Scrum
+* Kanban
+* Reading and understanding API documentation
 # Courses 
 * [The Complete 2024 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/?couponCode=24T3MT53024#instructor-1) (in progress)
 
