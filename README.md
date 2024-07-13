@@ -16,7 +16,7 @@ My name is Weronika Czernal. I developed an interest in the IT industry through 
 * Kanban
 * Reading and understanding API documentation
 # Courses 
-* [The Complete 2024 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/?couponCode=24T3MT53024#instructor-1) (in progress)
+* [The Complete 2024 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/?couponCode=24T3MT53024#instructor-1)
 
   * Completed section: Manual Software Testing
   * Continuing education in the area of test automation
